@@ -1,7 +1,7 @@
-NAME    = Colleen
+NAME    = Grace
 CC      = cc
 CFLAGS  = -Wall -Wextra -Werror
-SRC     = Colleen.c
+SRC     = Grace.c
 OBJ     = $(SRC:.c=.o)
 
 all: $(NAME)
